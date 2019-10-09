@@ -1,0 +1,26 @@
+body {
+  background-color:#DDA0DD;
+}
+div {
+  column-count: 2;
+}
+h3 {
+  font-family:'Lato', sans-serif;
+  font-size: 14pt;
+  font-weight: normal;
+  background-color: #D8BFD8;
+}
+h1 {
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 34pt;
+  font-weight: bolder;
+  background-color: #FFF0F5
+}
+h2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20pt;
+  font-style: italic;
+  font-weight: lighter;
+  background-color: #FFE4E1
+
+}
