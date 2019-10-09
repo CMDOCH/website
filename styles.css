@@ -1,0 +1,17 @@
+body {
+  background-color: #FFA2B3;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 50px;
+}
+img {
+  height: 100%;
+  width: 100%;
+
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+}
+div {
+  column-count:3;
+}
